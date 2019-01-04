@@ -1,0 +1,1 @@
+INSERT INTO oauth_client_details VALUES('konyvklub_angular_webapp','konyvklub', '$2a$10$zDI58kTqXuze2YusUF84Ue3uOhor.gixQJl8zZ3Xp4JffcB.W.bxa', 'read,write', 'password', '', 'ROLE_KONYVKLUB_ADMIN, ROLE_KONYVKLUB_USER', 600, 3600, NULL, 'true');
