@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.1.1.RELEASE</version>
+		<version>2.0.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>hu.roszpapad</groupId>
@@ -19,7 +19,7 @@
 		<java.version>1.8</java.version>
 		<oauth.version>2.3.3.RELEASE</oauth.version>
 		<jwt.version>1.0.9.RELEASE</jwt.version>
-		<start-class>com.restfiuktarsasaga.ecarrentAuthorizationServer.config.AuthorizationServerApplication</start-class>
+		<start-class>hu.roszpapad.konyvklubauth.config.AuthorizationServerApplication</start-class>
 	</properties>
 
 	<dependencies>
